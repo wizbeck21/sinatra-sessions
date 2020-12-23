@@ -45,6 +45,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   eventmachine (~> 1.0.5)
@@ -58,4 +59,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   2.0.1
+   2.2.2
